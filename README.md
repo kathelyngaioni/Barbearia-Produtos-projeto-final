@@ -6,3 +6,7 @@
   ★border-style: solid;
 
 ★ border-radius: raio da borda
+
+★ hover : quando o mouse está por cima do elemento.
+
+★ active : quando o mouse está sendo clicado.
