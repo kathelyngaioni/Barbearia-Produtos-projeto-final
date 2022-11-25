@@ -10,3 +10,7 @@
 ★ hover : quando o mouse está por cima do elemento.
 
 ★ active : quando o mouse está sendo clicado.
+
+★ Tag footer :  tag do rodapé.
+
+★ Tag URL : é possível colocar uma imagem no arquivo CSS.  No CSS, ao referenciarmos o endereço de uma imagem, usamos o valor url.
